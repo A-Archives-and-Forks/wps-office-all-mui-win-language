@@ -174,7 +174,7 @@ If this folder does not exist create it. To see hit **Ctrl + H** to show hidden 
 This is necessary for special characters like accent marks on Spanish language to can be written, If you need, install with:
 
 ```bash
-sudo apt install im-config ibus ibus-gtk ibus-gtk3
+sudo apt install ibus-clutter im-config ibus ibus-gtk ibus-gtk3
 ```
 
 In some more modern Linux the following package goes 
