@@ -1,4 +1,8 @@
 # wps-office-all-mui-win-language
+---
+**Update 2026**.- Now a dedicated tutorial is available to run WPS Office 12 Linux version for multiple languages in: [https://github.com/wachin/wps-office-12-language-packs](https://github.com/wachin/wps-office-12-language-packs)
+---
+
 
 In 2023, the Chinese software company Kingsoft Office, which developed WPS Office, released an update with many improvements for Linux available for 64-bit computers; These are the steps to install it (Also at the end are the steps for the latest version 11.1.0.8392 for 32 and 64 bit). You can ask me any questions by email: linuxfrontier@proton.me.
 
